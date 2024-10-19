@@ -52,7 +52,9 @@ while True:
         case 3:
             user_bank.withdraw_account()
         case 4:
-            print("Encerrando o programa...")
+            user_bank.list_accounts()
+        case 5:
+            print("Encerrando o programa")
             break
         case _:
             print("Opção inválida, encerrando o programa!")
