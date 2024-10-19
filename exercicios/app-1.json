@@ -1,0 +1,37 @@
+{
+    "Loja Exemplo 1": [
+        {
+            "id": 1,
+            "nome": "Produto A",
+            "preço": 29.99
+        }
+    ],
+    "Loja Exemplo 2": [
+        {
+            "id": 2,
+            "nome": "Produto D",
+            "preço": 15.0
+        }
+    ],
+    "Loja Exemplo 3": [
+        {
+            "id": 1,
+            "nome": "Produto E",
+            "preço": 22.0
+        }
+    ],
+    "Loja Exemplo 4": [
+        {
+            "id": 2,
+            "nome": "Produto H",
+            "preço": 5.99
+        }
+    ],
+    "Loja Exemplo 5": [
+        {
+            "id": 2,
+            "nome": "Produto J",
+            "preço": 27.5
+        }
+    ]
+}
